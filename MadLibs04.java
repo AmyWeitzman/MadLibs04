@@ -1,13 +1,3 @@
-/**
- * @student.info
- *<BR> Name:          First Last
- *<BR> Date:          0-00-0000
- *<BR> Period:        0
- *<BR> Assignment:    Lesson00
- *<BR> Description:   In a sentence, describe goals
- *<BR> Cite Sources:  People who helped, and/or websites used
- */
-
 import java.util.Scanner; 
  
 public class MadLibs04
@@ -94,8 +84,3 @@ public class MadLibs04
 		+ ". We'll keep you updated. I'm " + name02 + " and this is " + funnyWord02 + " news.");
 	}
 }
-
-/*
-RUN OUTPUT:
-
-*/
